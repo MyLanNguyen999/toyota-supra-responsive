@@ -1,0 +1,55 @@
+
+body{
+    font-family: fantasy;
+    margin: 0 40px 0 40px;
+}
+h1{
+    font-size:25px;
+}
+h2{
+    font-size: 20px;
+
+}
+.background-body{
+     background: linear-gradient(44.8deg,
+                rgba(255, 136, 102, 0.67) -53.1%,
+                rgba(255, 221, 136, 0.28) 49%);
+}
+
+button {
+            display: block;
+            
+            text-align: center;
+            font-family: fantasy;
+            font-weight: bold;
+            font-size: 15px;
+            color: white;
+            background-color: #7F6249;
+            transition: all 200ms ease-in-out;
+        }
+
+        button:hover {
+            color: #7F6249;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .read-more {
+            
+            text-align: center;
+           
+            text-decoration: none;
+            font-weight: bolder;
+
+        }
+
+        .read-more:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        
+
+        
+
+       
