@@ -20,6 +20,9 @@ h3{
      border-top-style: dashed;
     border-bottom-style: dashed;
 }
+p{
+    font-size:25px;
+}
 button {
             display: block;
             
